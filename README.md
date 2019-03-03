@@ -1,1 +1,3 @@
-# linux_shell_scripting
+# Linux shell scripting
+
+Personal repository to save shell scripts.
